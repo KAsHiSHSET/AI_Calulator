@@ -20,7 +20,13 @@ The **AI Calculator** transforms traditional math-solving into a futuristic expe
 | 📤 Send to AI                | Lift your **little finger** to send the drawing for AI interpretation.      |
 | 📊 Detailed Step-by-Step Solutions | Get clear, step-by-step solutions powered by **Gemini AI**.          |
 
+### Screenshots
+
 ![Demo Screenshot](https://github.com/user-attachments/assets/f53f009a-18e2-4d93-bd14-b9e711e2ebf0)
+
+![image](https://github.com/user-attachments/assets/e8c529bf-0799-440d-9181-63b5ef3fd6eb)
+![image](https://github.com/user-attachments/assets/5458b5b1-aa92-4745-b6bc-7cf49280f083)
+
 
 ---
 
