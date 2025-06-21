@@ -28,6 +28,7 @@ The **AI Calculator** transforms traditional math-solving into a futuristic expe
 ![image](https://github.com/user-attachments/assets/5458b5b1-aa92-4745-b6bc-7cf49280f083)
 ![image](https://github.com/user-attachments/assets/d9d11cd1-a032-42b5-842f-822b64ef21a9)
 
+![image](https://github.com/user-attachments/assets/f8bc4cef-0303-4d05-9ad8-226c8ed15d07)
 
 ---
 
